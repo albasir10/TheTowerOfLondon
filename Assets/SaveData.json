@@ -1,0 +1,20 @@
+{
+    "LastDifficultyType": 2,
+    "BestScoreEasy": 0,
+    "BestScoreNormal": 1200,
+    "BestScoreHard": 800,
+    "SaveResults": [
+        {
+            "Difficulty": 2,
+            "result": 1200
+        },
+        {
+            "Difficulty": 2,
+            "result": 800
+        },
+        {
+            "Difficulty": 3,
+            "result": 800
+        }
+    ]
+}
